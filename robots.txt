@@ -1,0 +1,2 @@
+Disallow: /works/mates.php
+Disallow: /works/mates
