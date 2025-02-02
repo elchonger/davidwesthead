@@ -57,7 +57,7 @@
                                       <li><a href="../lectures-i-can-offer">Lectures I can offer</a></li>
                                     </ul>
               				</li>-->
-                        <li><a href="./contact">CONTACT</a></li>
+                        <li><a href="../contact">CONTACT</a></li>
                      
                     </ul>
                  
